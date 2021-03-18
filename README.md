@@ -129,7 +129,7 @@
 - [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [grantwilliams/wg-gesucht-crawler-cli](https://github.com/grantwilliams/wg-gesucht-crawler-cli) - Python web crawler / scraper for WG-Gesucht. Crawls the WG-Gesucht site for new apartment listings and send a message to the poster, based off your saved filters and saved text
-- [tschuehly/flathunter](https://github.com/tschuehly/flathunter) - TelegramBot that finds flats on immobilienscout24.de,ebay-kleinanzeigen.de, immowelt.de and wg-gesucht.de [Working as of 03.03.2020]
+- [tschuehly/flathunter](https://github.com/tschuehly/flathunter) - TelegramBot that finds flats on immobilienscout24.de, ebay-kleinanzeigen.de, immowelt.de and wg-gesucht.de
 - [numenta/nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [stefanw/Bundestagger](https://github.com/stefanw/Bundestagger) - Django project for annotating and referencing parts of the parliament protocols of the German Bundestag.
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
